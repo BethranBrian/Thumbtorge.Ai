@@ -1,0 +1,5 @@
+{
+  "name": "ThumbForge",
+  "description": "A robust, client-side YouTube thumbnail generator allowing users to upload images, overlay custom text, and export high-quality PNGs.",
+  "requestFramePermissions": []
+}
